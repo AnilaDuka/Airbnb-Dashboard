@@ -1,18 +1,18 @@
 # Airbnb Tableau Dashboard
 
-## 📊 Project Overview
+## Project Overview
 
 This project is a Tableau dashboard analyzing Airbnb data to uncover insights about pricing, revenue, and bedroom distribution across various zip codes.
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Tableau
 
-## 📥 Data Source
+## Data Source
 
 - Public Airbnb dataset from Kaggle
 
-## 📈 Visualizations
+## Visualizations
 
 1. **Revenue for Year:**  
    - A line chart showcasing revenue trends over the course of a year.
@@ -29,13 +29,7 @@ This project is a Tableau dashboard analyzing Airbnb data to uncover insights ab
 5. **Distinct Count of Bedrooms:**  
    - A table summarizing the count of listings by the number of bedrooms.
 
-## 🔍 Key Insights
-
-- Revenue shows a steady increase throughout the year.  
-- Significant price variations exist across different zip codes.  
-- Listings with more bedrooms generally have higher average prices.  
-
-## 🌐 View Dashboard
+## View Dashboard
 
 You can explore the dashboard [here](https://public.tableau.com/app/profile/anila.duka/viz/Airbnb_17421454662190/Dashboard1?publish=yes).
 
